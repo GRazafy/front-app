@@ -1,0 +1,28 @@
+.card {
+    max-width: 17em;
+    min-width: 17em;
+    max-height: 28em;
+    min-height: 28em;
+    margin: 25px;
+}
+.image_container{
+    height: 70%;
+    width: 70%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 2rem;
+}
+
+/*.card-deck{
+    align-items: center;
+    justify-content: center;
+}
+*/
+.card-img-top{
+    width: 100%;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+    margin-left: auto;
+    margin-right:auto;
+    display:block;
+}
