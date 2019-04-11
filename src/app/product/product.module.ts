@@ -6,6 +6,9 @@ import { ListComponent } from './list/list.component';
   imports: [
     CommonModule
   ],
+  exports:[
+    ListComponent,
+  ],
   declarations: [ListComponent]
 })
 export class ProductModule { }
