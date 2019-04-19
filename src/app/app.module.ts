@@ -14,7 +14,6 @@ import { AppRoutingModule } from './app-routing.module';
     BrowserModule,
     ApiModule,
     HttpClientModule,
-    ProductModule,
     AppRoutingModule,
   ],
   providers: [],
